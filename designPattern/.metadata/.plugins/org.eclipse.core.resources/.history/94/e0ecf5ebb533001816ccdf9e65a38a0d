@@ -1,0 +1,12 @@
+package factoryPartten;
+
+public class factory {
+	public static void main(String[] args) {
+
+	}
+}
+class Student{
+	private String genderr;
+	private String lang;
+	private String name;
+}

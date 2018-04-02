@@ -1,0 +1,25 @@
+package factoryPartten;
+
+import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
+
+public class factory {
+	public static void main(String[] args) {
+		
+		
+		
+	}
+	
+	public List<String> languge(Student[] a){
+		List<Student> StuList = new CopyOnWriteArrayList<>();
+		for (int i = 0; i < a.length; i++) {
+			
+		}
+	}
+	
+}
+class Student{
+	private String genderr;
+	private String lang;
+	private String name;
+}

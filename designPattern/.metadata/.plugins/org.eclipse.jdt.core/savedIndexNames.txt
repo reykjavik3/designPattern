@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+E:\myGitRepository\designPattern\.metadata\.plugins\org.eclipse.jdt.core
+409393160.index
+2990609050.index
+310476246.index
+2132401096.index
+2722236690.index
+691751752.index
+2590704169.index
+4181096552.index
+3125954180.index
+3429225410.index
+331948465.index
+1944416022.index
+1327073813.index
+326195695.index
+1946366051.index
+2700062129.index
+3399449082.index
+2469898829.index
+1784254552.index

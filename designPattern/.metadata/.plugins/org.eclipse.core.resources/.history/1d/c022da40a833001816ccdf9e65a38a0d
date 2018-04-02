@@ -1,0 +1,11 @@
+package factoryPartten;
+
+import javax.sound.midi.Synthesizer;
+
+public class factory {
+	public static void main(String[] args) {
+		int i = 1;
+		int j;
+		j=i++;
+	}
+}
